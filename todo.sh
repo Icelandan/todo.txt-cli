@@ -20,7 +20,7 @@ version() {
 }
 
 # Set script name and full path early.
-TODO_SH=$(basename "$0")
+TODO_SH=$(/Users/Ice/Documents/todo)
 TODO_FULL_SH="$0"
 export TODO_SH TODO_FULL_SH
 
